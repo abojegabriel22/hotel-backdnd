@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Deluxe Ocean View",
+        "maxcount": 2,
+        "phonenumber": "1234567890",
+        "rentperday": 150,
+        "imageurls": [
+            "https://example.com/images/deluxe_ocean_view1.jpg",
+            "https://example.com/images/deluxe_ocean_view2.jpg",
+            "https://example.com/images/deluxe_ocean_view3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A luxurious room with a stunning ocean view."
+    },
+    {
+        "name": "Deluxe Mountain Retreat",
+        "maxcount": 3,
+        "phonenumber": "1234567891",
+        "rentperday": 180,
+        "imageurls": [
+            "https://example.com/images/deluxe_mountain_retreat1.jpg",
+            "https://example.com/images/deluxe_mountain_retreat2.jpg",
+            "https://example.com/images/deluxe_mountain_retreat3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A spacious room nestled in the mountains."
+    },
+    {
+        "name": "Deluxe City Lights",
+        "maxcount": 2,
+        "phonenumber": "1234567892",
+        "rentperday": 200,
+        "imageurls": [
+            "https://example.com/images/deluxe_city_lights1.jpg",
+            "https://example.com/images/deluxe_city_lights2.jpg",
+            "https://example.com/images/deluxe_city_lights3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "Experience the vibrant city life from this deluxe room."
+    },
+    {
+        "name": "Deluxe Garden Escape",
+        "maxcount": 4,
+        "phonenumber": "1234567893",
+        "rentperday": 170,
+        "imageurls": [
+            "https://example.com/images/deluxe_garden_escape1.jpg",
+            "https://example.com/images/deluxe_garden_escape2.jpg",
+            "https://example.com/images/deluxe_garden_escape3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A serene garden view room with modern amenities."
+    },
+    {
+        "name": "Deluxe Poolside Paradise",
+        "maxcount": 2,
+        "phonenumber": "1234567894",
+        "rentperday": 190,
+        "imageurls": [
+            "https://example.com/images/deluxe_poolside_paradise1.jpg",
+            "https://example.com/images/deluxe_poolside_paradise2.jpg",
+            "https://example.com/images/deluxe_poolside_paradise3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "Direct access to the pool from this deluxe room."
+    },
+    {
+        "name": "Deluxe Penthouse Suite",
+        "maxcount": 5,
+        "phonenumber": "1234567895",
+        "rentperday": 300,
+        "imageurls": [
+            "https://example.com/images/deluxe_penthouse_suite1.jpg",
+            "https://example.com/images/deluxe_penthouse_suite2.jpg",
+            "https://example.com/images/deluxe_penthouse_suite3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "An opulent penthouse with panoramic views."
+    },
+    {
+        "name": "Deluxe Beachfront Bungalow",
+        "maxcount": 3,
+        "phonenumber": "1234567896",
+        "rentperday": 220,
+        "imageurls": [
+            "https://example.com/images/deluxe_beachfront_bungalow1.jpg",
+            "https://example.com/images/deluxe_beachfront_bungalow2.jpg",
+            "https://example.com/images/deluxe_beachfront_bungalow3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A private bungalow right on the beach."
+    },
+    {
+        "name": "Deluxe Forest Cabin",
+        "maxcount": 4,
+        "phonenumber": "1234567897",
+        "rentperday": 160,
+        "imageurls": [
+            "https://example.com/images/deluxe_forest_cabin1.jpg",
+            "https://example.com/images/deluxe_forest_cabin2.jpg",
+            "https://example.com/images/deluxe_forest_cabin3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A cozy cabin surrounded by lush forest."
+    },
+    {
+        "name": "Non-Deluxe Standard Room",
+        "maxcount": 2,
+        "phonenumber": "1234567898",
+        "rentperday": 100,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_standard_room1.jpg",
+            "https://example.com/images/non_deluxe_standard_room2.jpg",
+            "https://example.com/images/non_deluxe_standard_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "A comfortable room with essential amenities."
+    },
+    {
+        "name": "Non-Deluxe Economy Room",
+        "maxcount": 2,
+        "phonenumber": "1234567899",
+        "rentperday": 80,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_economy_room1.jpg",
+            "https://example.com/images/non_deluxe_economy_room2.jpg",
+            "https://example.com/images/non_deluxe_economy_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "An affordable room for budget travelers."
+    },
+    {
+        "name": "Non-Deluxe Single Room",
+        "maxcount": 1,
+        "phonenumber": "1234567800",
+        "rentperday": 70,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_single_room1.jpg",
+            "https://example.com/images/non_deluxe_single_room2.jpg",
+            "https://example.com/images/non_deluxe_single_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "A compact room ideal for solo travelers."
+    },
+    {
+        "name": "Non-Deluxe Double Room",
+        "maxcount": 2,
+        "phonenumber": "1234567801",
+        "rentperday": 90,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_double_room1.jpg",
+            "https://example.com/images/non_deluxe_double_room2.jpg",
+            "https://example.com/images/non_deluxe_double_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "A comfortable room for couples."
+    },
+    {
+        "name": "Deluxe Suite Room",
+        "maxcount": 4,
+        "phonenumber": "1234567810",
+        "rentperday": 250,
+        "imageurls": [
+            "https://example.com/images/deluxe_suite_room1.jpg",
+            "https://example.com/images/deluxe_suite_room2.jpg",
+            "https://example.com/images/deluxe_suite_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "deluxe",
+        "description": "A spacious suite with luxurious amenities and a separate living area."
+    },
+    {
+        "name": "Non-Deluxe Family Room",
+        "maxcount": 5,
+        "phonenumber": "1234567811",
+        "rentperday": 120,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_family_room1.jpg",
+            "https://example.com/images/non_deluxe_family_room2.jpg",
+            "https://example.com/images/non_deluxe_family_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "A comfortable room suitable for families, equipped with multiple beds and essential amenities."
+    },
+    {
+        "name": "Non-Deluxe Twin Room",
+        "maxcount": 2,
+        "phonenumber": "1234567812",
+        "rentperday": 85,
+        "imageurls": [
+            "https://example.com/images/non_deluxe_twin_room1.jpg",
+            "https://example.com/images/non_deluxe_twin_room2.jpg",
+            "https://example.com/images/non_deluxe_twin_room3.jpg"
+        ],
+        "currentbookings": [],
+        "type": "non-deluxe",
+        "description": "A room with two single beds, ideal for friends or colleagues traveling together."
+    }
+]
+   
+  
