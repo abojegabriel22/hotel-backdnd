@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const mongoUrl = "mongodb+srv://hotel-database:rap0nl5pt5j1XR8Z@cluster0.16ffmn9.mongodb.net/hotel-database?retryWrites=true&w=majority&appName=Cluster0"
+const mongoUrl = process.env.mongoUrl
 
 const dbc = async () => {
     try {
@@ -17,6 +17,3 @@ const dbc = async () => {
 }
 
 module.exports = dbc
-
-// mongodb+srv://hotel-database:2sC1bg7xlsG4GeWk@cluster0.16ffmn9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// mongodb+srv://hotel-database:rap0nl5pt5j1XR8Z@cluster0.16ffmn9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
