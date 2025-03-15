@@ -1,4 +1,6 @@
 const mongoose = require("mongoose")
+const dotenv = require("dotenv")
+dotenv.config()
 
 const mongoUrl = process.env.mongoUrl
 
@@ -17,3 +19,4 @@ const dbc = async () => {
 }
 
 module.exports = dbc
+
